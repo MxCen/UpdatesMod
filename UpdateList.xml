@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <description>AutoUpdate</description>
+  <Updater>
+	<Url>https://gitee.com/mxcen1/Updates/raw/master/</Url>
+	<LastUpdateTime>2022-09-05</LastUpdateTime>
+  </Updater>
+  <Application applicationId="Game">
+    <EntryPoint>Game.exe</EntryPoint>
+    <Location>.</Location>
+	<Version>1.0.0.0</Version>
+  </Application>
+  <Files>
+	   <File Ver="1.0.0.0" Name="Game.exe" />
+	   <File Ver="1.0.0.0" Name="AutoUpdate.pdb" />
+  </Files>
+</AutoUpdater>
