@@ -12,6 +12,6 @@
   </Application>
   <Files>
 	   <File Ver="1.0.0.0" Name="Game.exe" />
-	   <File Ver="1.0.0.0" Name="AutoUpdate.pdb" />
+	   <File Ver="1.0.0.1" Name="AutoUpdate.pdb" />
   </Files>
 </AutoUpdater>
